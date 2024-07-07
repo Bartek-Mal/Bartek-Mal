@@ -1,6 +1,8 @@
 ## Hi there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bartek-Mal&layout=compact)
+
 ![Bartek-Mal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bartek-Mal&show_icons=true&theme=radical)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bartek-Mal)
 
 
