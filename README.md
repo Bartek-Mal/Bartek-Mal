@@ -29,3 +29,6 @@ I'm passionate about building secure applications and exploring data-driven solu
 ### 📫 How to Reach Me
 
 - [Email](mailto:bartosz.malujda@gmail.com)
+
+### My second Cybersecurity GitHub account
+![OmniSecura](https://github.com/OmniSecura)
